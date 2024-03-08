@@ -1,0 +1,99 @@
+.message {
+    padding-bottom: 25px;
+    font-size: 15px;
+    font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+    line-height: 1.428571429;
+}
+
+.circle-you {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(22, 196, 118);
+    border-radius: 50%;
+}
+
+.circle-bot {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(11, 87, 113);
+    border-radius: 50%;
+    float: left;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.circle-bot img,
+.circle-you img {
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.circle-you {
+    margin-top: 5px;
+    float: right;
+}
+
+.circle-bot + .text, .circle-you + .text {
+    border-radius: 18px;
+    padding: 8px 12px;
+}
+
+.circle-bot + .text {
+    background-color: #959eb4;
+    float: left;
+}
+
+.circle-you + .text {
+    float: right;
+    background-color: rgb(52, 181, 217);
+    margin-right: 10px;
+}
+
+.circle-you + .text div, .circle-you + .text *, .dark .circle-you + .text div, .dark .circle-you + .text * {
+    color: #cab6b6 !important;
+}
+
+.circle-you + .text .username {
+    text-align: right;
+}
+
+.dark .circle-bot + .text div, .dark .circle-bot + .text * {
+    color: #000;
+}
+
+.text {
+    max-width: 80%;
+}
+
+.text p {
+    margin-top: 5px;
+}
+
+.username {
+    font-weight: bold;
+}
+
+.message-body {
+}
+
+.message-body img {
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 20px;
+}
+
+.message-body p {
+    margin-bottom: 0 !important;
+    font-size: 15px !important;
+    line-height: 1.428571429 !important;
+}
+
+.dark .message-body p em {
+    color: rgb(147, 80, 80) !important;
+}
+
+.message-body p em {
+    color: rgb(156, 87, 87) !important;
+}

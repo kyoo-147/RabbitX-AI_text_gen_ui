@@ -1,0 +1,7 @@
+- LLM và các mô hình AI  đã hoàn toàn thay đổi xu hướng công nghệ hện ngày nay
+- Các mô hình ngôn ngữ lớn liên tục ra mắt nhằm mục đích phục vụ đến người dùng cuối một cách thân thiện và thông minh nhất
+- Chúng tôi rất hân hạnh khi được giới thiệu với các bạn RabbitX-AI và Giao diện chatbot được xây dựng hoàn toàn việt hóa. Gửi một lời cảm ơn sâu sắc đến những nỗ lực của người bạn: oobabooga 
+- RabbitX-AI được phát triển dựa trên model Mistral 7B, đạt hiệu suất tốt trên các tác vụ giáo dục, bạn cũng có thể thử nghiệm mô hình của chúng tôi trên các tác vụ khác theo thang đánh giá của mô hình GPT-4.
+- Chúng tôi đồng thời cũng cung cấp giao diện việt hóa cho người dùng cuối có thể can thiệp sâu hơn vào quá trình phát triển mô hình
+- Bạn có thể Finetune, Training, chỉnh sửa bộ dữ liệu và còn nhiều hơn thế nữa...
+- Hãy liên hệ với chúng tôi để trải nghiệm chi tiết về Model RabbitX-AI và tìm hiểu thêm về cách chúng tôi tối ưu hóa và tạo ra RabbitX-AI. 
